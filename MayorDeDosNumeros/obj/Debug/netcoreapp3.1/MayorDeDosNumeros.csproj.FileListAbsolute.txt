@@ -1,0 +1,12 @@
+C:\Users\Ivanesa\source\repos\MayorDeDosNumeros\MayorDeDosNumeros\bin\Debug\netcoreapp3.1\MayorDeDosNumeros.exe
+C:\Users\Ivanesa\source\repos\MayorDeDosNumeros\MayorDeDosNumeros\bin\Debug\netcoreapp3.1\MayorDeDosNumeros.deps.json
+C:\Users\Ivanesa\source\repos\MayorDeDosNumeros\MayorDeDosNumeros\bin\Debug\netcoreapp3.1\MayorDeDosNumeros.runtimeconfig.json
+C:\Users\Ivanesa\source\repos\MayorDeDosNumeros\MayorDeDosNumeros\bin\Debug\netcoreapp3.1\MayorDeDosNumeros.runtimeconfig.dev.json
+C:\Users\Ivanesa\source\repos\MayorDeDosNumeros\MayorDeDosNumeros\bin\Debug\netcoreapp3.1\MayorDeDosNumeros.dll
+C:\Users\Ivanesa\source\repos\MayorDeDosNumeros\MayorDeDosNumeros\bin\Debug\netcoreapp3.1\MayorDeDosNumeros.pdb
+C:\Users\Ivanesa\source\repos\MayorDeDosNumeros\MayorDeDosNumeros\obj\Debug\netcoreapp3.1\MayorDeDosNumeros.AssemblyInfoInputs.cache
+C:\Users\Ivanesa\source\repos\MayorDeDosNumeros\MayorDeDosNumeros\obj\Debug\netcoreapp3.1\MayorDeDosNumeros.AssemblyInfo.cs
+C:\Users\Ivanesa\source\repos\MayorDeDosNumeros\MayorDeDosNumeros\obj\Debug\netcoreapp3.1\MayorDeDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Ivanesa\source\repos\MayorDeDosNumeros\MayorDeDosNumeros\obj\Debug\netcoreapp3.1\MayorDeDosNumeros.dll
+C:\Users\Ivanesa\source\repos\MayorDeDosNumeros\MayorDeDosNumeros\obj\Debug\netcoreapp3.1\MayorDeDosNumeros.pdb
+C:\Users\Ivanesa\source\repos\MayorDeDosNumeros\MayorDeDosNumeros\obj\Debug\netcoreapp3.1\MayorDeDosNumeros.genruntimeconfig.cache
